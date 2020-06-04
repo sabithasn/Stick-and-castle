@@ -1,2 +1,2 @@
-# angryBirdsStage1
-Stage 1 Angry Birds
+# Stick and Castle project solution
+Created using triangle from p5 play
